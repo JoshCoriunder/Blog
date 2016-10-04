@@ -2,9 +2,19 @@
 
     background-color: #71ae2c;
     height: 80px;
-    max-width: 60rem;
+    max-width: 100%;
 }
 
+.masthead-title{
+    padding-left: 30px;
+
+}
+
+.nav.cms_nav{
+    color: #ffffff;
+    padding-right: 30px;
+
+}
 .container{
     max-width: 50rem;
 }
