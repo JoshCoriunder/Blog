@@ -123,6 +123,7 @@ var CMS = {
 				var tpl = $('#post-template').html(),
 					$tpl = $(tpl);
 
+				$tpl.find('.post-img').html(post.img);
 				$tpl.find('.post-title').html(post.title);
 				$tpl.find('.post-date').html((post.date.getMonth() + 1) + '/' + post.date.getDate() + '/' +  post.date.getFullYear());
 				$tpl.find('.post-content').html(post.contentData);
@@ -139,10 +140,12 @@ var CMS = {
 				$tpl = $(tpl);
 
 			var title = '<a href="#">' + post.title + '</a>',
+				img = 'src="'+post.img +' " ' 
 				date = (post.date.getMonth() + 1) + '/' + post.date.getDate() + '/' +  post.date.getFullYear(),
 				snippet = post.contentData.split('.')[0] + '.';
 
 			var postLink = $tpl.find('.post-title'),
+				postImg = $tpl.find('.post-img'),
 				postDate = $tpl.find('.post-date'),
 				postSnippet = $tpl.find('.post-content');
 
@@ -152,6 +155,7 @@ var CMS = {
 			});
 
 			postLink.html(title);
+			postImg.html(img);
 			postSnippet.html(snippet);
 			postDate.html(date);
 			CMS.settings.mainContainer.append($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
