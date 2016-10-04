@@ -3,7 +3,7 @@ $(function() {
 	CMS.init({
 
 		// Name of your site
-		siteName: '../img/logo_home.png',
+		siteName: 'img/logo_home.png',
 
 		// Tagline for your site
 		siteTagline: 'Payments oriented user management',
@@ -16,7 +16,7 @@ $(function() {
 
 		// Navigation items
 		siteNavItems: [
-			{ name: 'Github', href: 'https://github.com/cdmedia/cms.js', newWindow: true},
+			{ name: 'Github', href: 'https://github.com/coriunder', newWindow: true},
 			{ name: 'About'},
 			{ name: 'Links'},
 		],
