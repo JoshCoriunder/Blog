@@ -6,7 +6,7 @@ $(function() {
 		siteName: 'img/logo.png',
 
 		// Tagline for your site
-		siteTagline: '',
+		siteTagline: 'The Blog',
 
 		// Email address
 		siteEmail: 'josh@coriunder.com',
