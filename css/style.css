@@ -28,3 +28,13 @@ nav ul li a{
 .container{
     max-width: 50rem;
 }
+
+@media only screen and (max-device-width: 480px) {
+.masthead-title{
+    padding-top: 5px;
+    padding-left: 10px;
+
+}
+
+
+}
