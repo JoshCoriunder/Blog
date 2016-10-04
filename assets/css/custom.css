@@ -158,6 +158,11 @@ nav ul li a{
     border-radius: 6px;
 }
 
+.page{
+    margin-top:24px;
+    margin-right: 30px;
+}
+
 
 @media only screen and (max-device-width: 480px) {
 .masthead-title{
