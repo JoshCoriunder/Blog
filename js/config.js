@@ -16,7 +16,7 @@ $(function() {
 
 		// Navigation items
 		siteNavItems: [
-			{ name: 'Github', href: 'https://github.com/coriunder', newWindow: true},
+			{ name: 'Documentation', href: 'http://coriunder.com/docs', newWindow: true},
 			{ name: 'About'},
 			{ name: 'Links'},
 		],
