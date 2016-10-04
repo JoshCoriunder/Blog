@@ -6,13 +6,13 @@ $(function() {
 		siteName: 'img/logo.png',
 
 		// Tagline for your site
-		siteTagline: 'Payments oriented user management',
+		siteTagline: '',
 
 		// Email address
-		siteEmail: 'your_email@example.com',
+		siteEmail: 'josh@coriunder.com',
 
 		// Name
-		siteAuthor: 'Your Name',
+		siteAuthor: 'Josh Daniel',
 
 		// Navigation items
 		siteNavItems: [
