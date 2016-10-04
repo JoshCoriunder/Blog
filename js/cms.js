@@ -9,7 +9,7 @@
 var CMS = {
 
 	settings: {
-		siteName: 'CMS.js',
+		siteName: 'Coriunder Blog',
 		siteTagline: 'Your site tagline',
 		siteEmail: 'your_email@example.com',
 		siteAuthor: 'Your Name',
