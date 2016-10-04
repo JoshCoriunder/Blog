@@ -97,3 +97,55 @@ h2 a:after{
 	outline:none;
 }
 
+/*
+|--------------------------------------------------------------------------
+| Edit from the CMS code
+|--------------------------------------------------------------------------
+*/
+
+p{
+    text-align: justify;
+}
+
+.masthead {
+
+    background-color: #71ae2c;
+    height: 80px;
+    max-width: 100%;
+}
+
+masthead h3 a:before {
+    
+    content: "";
+   
+}
+
+.masthead-title{
+    padding-top: 5px;
+    padding-left: 60px;
+
+}
+
+nav.cms_nav{
+    
+    padding-right: 30px;
+
+}
+
+nav ul li a{
+    color: #ffffff;
+}
+
+.container{
+    max-width: 50rem;
+}
+
+@media only screen and (max-device-width: 480px) {
+.masthead-title{
+    padding-top: 5px;
+    padding-left: 10px;
+
+}
+
+
+}
