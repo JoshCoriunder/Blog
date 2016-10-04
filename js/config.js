@@ -3,7 +3,7 @@ $(function() {
 	CMS.init({
 
 		// Name of your site
-		siteName: 'img/logo_home.png',
+		siteName: 'img/logo.png',
 
 		// Tagline for your site
 		siteTagline: 'Payments oriented user management',
