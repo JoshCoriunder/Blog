@@ -3,7 +3,7 @@ $(function() {
 	CMS.init({
 
 		// Name of your site
-		siteName: 'img/logo.png',
+		siteName: 'Coriunder Blog',
 
 		// Tagline for your site
 		siteTagline: '',
