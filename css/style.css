@@ -25,9 +25,7 @@ nav ul li a{
     color: #ffffff;
 }
 
-.container{
-    max-width: 50rem;
-}
+
 
 @media only screen and (max-device-width: 480px) {
 .masthead-title{
