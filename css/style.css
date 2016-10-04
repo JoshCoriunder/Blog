@@ -2,4 +2,9 @@ masthead {
 
     background-color: #71ae2c;
     height: 80px;
+    max-width: 60rem;
+}
+
+container{
+    max-width: 50rem;
 }
