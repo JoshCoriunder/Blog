@@ -16,9 +16,10 @@ $(function() {
 
 		// Navigation items
 		siteNavItems: [
-			{ name: 'Documentation', href: 'http://coriunder.com/docs', newWindow: true},
+			
 			{ name: 'About'},
 			{ name: 'Links'},
+			{ name: 'Documentation', href: 'http://coriunder.com/docs', newWindow: true},
 		],
 
 		// Posts folder name
