@@ -140,7 +140,7 @@ var CMS = {
 				$tpl = $(tpl);
 
 			var title = '<a href="#">' + post.title + '</a>',
-				img = 'src="'+post.img +' " ' 
+				img = '<img src="'+post.img +' "> ' 
 				date = (post.date.getMonth() + 1) + '/' + post.date.getDate() + '/' +  post.date.getFullYear(),
 				snippet = post.contentData.split('.')[0] + '.';
 
