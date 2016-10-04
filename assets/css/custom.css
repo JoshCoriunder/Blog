@@ -140,7 +140,7 @@ nav ul li a{
     width: 1170px;
 }
 
-h3 a:before{margin-left:-30px;margin-right:8px;font-family:Glyphicons Halflings;font-size:22px;color:#5cc7b2;opacity:.3;content:"";transition:.3s ease}
+
 
 @media only screen and (max-device-width: 480px) {
 .masthead-title{
