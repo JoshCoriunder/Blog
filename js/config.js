@@ -3,10 +3,10 @@ $(function() {
 	CMS.init({
 
 		// Name of your site
-		siteName: 'CMS.js',
+		siteName: '../img/logo_home.png',
 
 		// Tagline for your site
-		siteTagline: 'The Javascript Site Generator',
+		siteTagline: 'Payments oriented user management',
 
 		// Email address
 		siteEmail: 'your_email@example.com',
