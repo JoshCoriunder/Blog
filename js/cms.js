@@ -123,7 +123,7 @@ var CMS = {
 				var tpl = $('#post-template').html(),
 					$tpl = $(tpl);
 
-				$tpl.find('.post-img').html(post.img);
+				
 				$tpl.find('.post-title').html(post.title);
 				$tpl.find('.post-date').html((post.date.getMonth() + 1) + '/' + post.date.getDate() + '/' +  post.date.getFullYear());
 				$tpl.find('.post-content').html(post.contentData);
