@@ -1,0 +1,99 @@
+.faq li h7 {
+    font-size: 20px;
+    font-weight: 400;
+    cursor: pointer
+}
+.faq li h7:before {
+    margin-right: 12px;
+    display: inline-block;
+    width: 20px;
+    vertical-align: text-top;
+    font-family: FontAwesome;
+    color: #000;
+    
+    
+}
+.faq li h7.open:before {
+   
+}
+
+.site-footer {
+  position: relative;
+}
+
+.sidebar {
+    padding: 50px 20px 20px;
+    overflow-y: auto
+}
+
+.btn-teal {
+    background-color:#71ae2c
+
+}
+
+.promo>p{
+    min-height: 200px;
+    text-align: justify;
+    color: #000;
+}
+
+p{
+    text-align: justify;
+    color: #000;
+    font-weight: 300;
+}
+
+.sidenav.dropable ul {
+    display: block
+}
+ 
+.main-content{
+    border-left: 1px solid #ddd;
+    padding: 50px 50px 50px 50px;
+}
+
+h2 a:after{
+    background-color: #ddd;
+}
+
+.sidenav>li>ul:before{
+    border-left: 0px solid #ccc
+}
+
+/*
+|--------------------------------------------------------------------------
+| UItoTop jQuery Plugin 1.2
+| http://www.mattvarone.com/web-design/uitotop-jquery-plugin/
+|--------------------------------------------------------------------------
+*/
+
+#toTop {
+	display:none;
+	text-decoration:none;
+	position:fixed;
+	bottom:10px;
+	right:10px;
+	overflow:hidden;
+	width:51px;
+	height:51px;
+	border:none;
+	text-indent:100%;
+	background:url(../img/ui.totop.png) no-repeat left top;
+}
+
+#toTopHover {
+	background:url(../img/ui.totop.png) no-repeat left -51px;
+	width:51px;
+	height:51px;
+	display:block;
+	overflow:hidden;
+	float:left;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+}
+
+#toTop:active, #toTop:focus {
+	outline:none;
+}
+
