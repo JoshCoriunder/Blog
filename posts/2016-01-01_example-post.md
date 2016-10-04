@@ -4,7 +4,7 @@ title: Why we started Coriunder
 img: img/place-holder.png
 ---
 
-Ham pig alcatra biltong. Ball tip meatloaf andouille pork, [corned beef](#) tenderloin alcatra bresaola *bacon* fatback spare ribs pig tail meatball turkey.
+Ham pig alcatra biltong Ball tip meatloaf andouille pork, [corned beef](#) tenderloin alcatra bresaola *bacon* fatback spare ribs pig tail meatball turkey.
 Ball tip bresaola biltong turkey andouille picanha, fatback capicola ham hock tenderloin rump.
 
 > Biltong meatloaf pork chop, short loin ham pancetta beef shank ball tip sausage bresaola.
