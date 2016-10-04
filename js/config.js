@@ -42,8 +42,8 @@ $(function() {
 		// If Github mode is set, your Github username and repo name. Defaults
 		// to Github pages branch (gh-pages)
 		githubUserSettings: {
-			username: 'coriunder',
-			repo: 'coriunder.github.io'
+			username: 'joshcoriunder',
+			repo: 'blog'
 		}
 
 	});
