@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Getting Started with Slim Framework
+author: Josh Daniel
 img: img/place-holder.png
 tags: [php, framework, mvc, rest, api, slim]
 ---

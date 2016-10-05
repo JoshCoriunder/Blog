@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using SQLite with PHP
+author: Josh Daniel
 img: img/place-holder.png
 tags: [sqlite, php]
 ---
