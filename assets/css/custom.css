@@ -156,7 +156,7 @@ nav ul li a{
 .post-img{
    
     border-radius: 6px;
-    width: 100%;
+    
 }
 
 .page{
@@ -164,6 +164,9 @@ nav ul li a{
     margin-right: 30px;
 }
 
+.post-img img{
+    width: 100%;
+}
 
 
 
