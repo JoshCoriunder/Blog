@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install Vagrant on Debian
+title: How to start your own online shop
 author: Josh Daniel
 img: img/place-holder.png
 comments: true
