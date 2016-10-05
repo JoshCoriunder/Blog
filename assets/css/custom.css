@@ -135,7 +135,7 @@ nav ul li a{
 }
 
 .container{
-    width: 1170px;
+    max-width: 1170px;
 }
 
 .promo{
