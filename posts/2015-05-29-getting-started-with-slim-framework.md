@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with Slim Framework
-img: img/sports.png
+img: img/place-holder.png
 tags: [php, framework, mvc, rest, api, slim]
 ---
 
