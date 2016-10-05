@@ -30,7 +30,7 @@ var CMS = {
 		loader: '<div class="loader">Loading...</div>',
 		get siteAttributes() {
 			return [
-				{ attr: 'title', value: CMS.settings.siteName },
+				
 				{ attr: '.cms_sitename', value: CMS.settings.siteName},
 				{ attr: '.cms_tagline', value: CMS.settings.siteTagline},
 				{ attr: '.cms_footer_text', value: CMS.settings.footerText}
