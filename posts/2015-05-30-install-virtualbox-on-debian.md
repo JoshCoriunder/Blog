@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install Vagrant on Debian
-img: img/place-holder.png
+img: img/music.png
 comments: true
 tags: [vagrant]
 ---

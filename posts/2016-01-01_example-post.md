@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why we started Coriunder
-img: img/place-holder.png
+img: img/mobile.png
 ---
 
 Ham pig alcatra biltong Ball tip meatloaf andouille pork, [corned beef](#) tenderloin alcatra bresaola *bacon* fatback spare ribs pig tail meatball turkey.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using SQLite with PHP
-img: img/place-holder.png
+img: img/kids.png
 tags: [sqlite, php]
 ---
 
