@@ -5,34 +5,28 @@ author: Josh Daniel
 img: img/place-holder.png
 ---
 
-Ham pig alcatra biltong Ball tip meatloaf andouille pork, [corned beef](#) tenderloin alcatra bresaola *bacon* fatback spare ribs pig tail meatball turkey.
-Ball tip bresaola biltong turkey andouille picanha, fatback capicola ham hock tenderloin rump.
+After years of assisting startups with building their solution, and seeing the struggels of setting up a backend or using multiple services to accomidate the needs of their company - all to see them eventualy run out of money and compremizing on the quality of the actual product they are offering.  
 
-> Biltong meatloaf pork chop, short loin ham pancetta beef shank ball tip sausage bresaola.
 
-## The Bacon
+## The idea
 
-Leberkas brisket shankle salami short loin meatball kevin ham bacon drumstick shank turkey filet mignon strip steak porchetta.
-Rump capicola spare ribs hamburger pork loin. Porchetta kevin ground round cow capicola.
-Landjaeger pork loin swine spare ribs **tail meatloaf** *strip steak* drumstick, frankfurter tongue.
-Cow sausage meatball, brisket strip steak filet mignon shoulder pancetta tongue meatloaf doner.
-Pig biltong kevin pork ground round ham hock jowl flank pork belly chicken corned beef cow bacon drumstick.
-Venison pork loin meatball ham beef ribeye.
+Provide a backend system that will enable startups build their next big thing, focused on payments fintech companies can develop their niche product as a module on the Coriunder and benefit from an additional source of marketing making their module available to any costomer onboarded to the Coriunder platform.
 
-### Le Code
+### The start
 
-```
-def bacon(yum)
-  return 'mmm'
-```
+Focused on fintech we decided that the best way to fulfill our vision is to base it on a payment gateway that has been proven and to modify it to our needs. 
 
-### Lists
+The journy started with looking for the right fit for our needs, it was a long process but at the end we found what we were looking for, the process wasnt simple but we pushed through it and after months of development the base for our service was going live.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+We have built our platform on Microsoft Azure after getting a lot of support from the local team in Cyprus and we were on way, all is left now is PCI certification and the platform will go live in January.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+### Easy integration
+
+We wanted to be better, simple and user friendly so we invested a lot of time and resources in upgrading the documentation for our new platform and preparing SDK and sample projects to better assist our clients with integrating to the system.
+
+The Docs interface was built as the answer to all questions we ourselfs had when reviewing the platform for the first time, from developers to developers we wanted it be as simple as possible so not only developers will understand but also managers and dreamers trying to plan their next project.
+
+
 
 Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
 
