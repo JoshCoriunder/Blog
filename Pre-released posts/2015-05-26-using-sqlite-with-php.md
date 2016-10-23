@@ -10,9 +10,10 @@ The same as you, we are also a team of dreamers and developers who are building 
 
 We wanted to share with you the services that help us keep the team on point and help speed things up.
 
-![placeholder](http://blog.coriunder.com/img/Jira.png "Medium example image")
+
 
 ## Jira
+![placeholder](http://blog.coriunder.com/img/Jira.png "Medium example image")
 
 Jira is a task management system for development teams, the wide range of features gives us the control we need to manage our global development team. 
 
@@ -20,15 +21,17 @@ From time tracking to flow charts the wide range of 3rd party extensions gives u
 
 [Jira](https://www.Jira.com)
 
-![placeholder](http://blog.coriunder.com/img/Bitbucket.png "Medium example image")
+
 
 ## Bitbucket
+![placeholder](http://blog.coriunder.com/img/Bitbucket.png "Medium example image")
 
 [Bitbucket](https://www.Bitbucket.com)
 
-![placeholder](http://blog.coriunder.com/img/Hipchat.png "Medium example image")
+
 
 ## Hipchat
+![placeholder](http://blog.coriunder.com/img/Hipchat.png "Medium example image")
 
 Hipchat is not just another team chat app, the integration between Jira,Bitbucket and Hipchat helps keep the team up to speed with what is happenning. 
 
@@ -38,9 +41,10 @@ The multiple 3rd party integrations on the Jira platform allow additional inform
 
 [Hipchat](https://www.Hipchat.com)
 
-![placeholder](http://blog.coriunder.com/img/Frontify.png "Medium example image")
+
 
 ## Frontify
+![placeholder](http://blog.coriunder.com/img/Frontify.png "Medium example image")
 
 Frontify is an online tool to manage your brand book, no more need to create a document that holds all the rules and on the other hand to manage folders that hold all the assests and fonts. 
 
@@ -50,28 +54,32 @@ We keep saying that keeping on brand is important - Frontify helps you that with
 
 [Frontify](https://www.Frontify.com)
 
-![placeholder](http://blog.coriunder.com/img/Pintrest.png "Medium example image")
+
 
 ## Pintrest
+![placeholder](http://blog.coriunder.com/img/Pintrest.png "Medium example image")
 
 [Pintrest](https://www.Pintrest.com)
 
-![placeholder](http://blog.coriunder.com/img/Freshdesk.png "Medium example image")
+
 
 ## Freshdesk
+![placeholder](http://blog.coriunder.com/img/Freshdesk.png "Medium example image")
 
 [Freshdesk](https://www.Freshdesk.com)
 
-![placeholder](http://blog.coriunder.com/img/Drawio.png "Medium example image")
+
 
 ## Draw.io
+![placeholder](http://blog.coriunder.com/img/Drawio.png "Medium example image")
 
 Draw.io is one of our most beloved tools - this online flow chart tool helped us simplify the 
 
 [Draw.io](https://www.Draw.io)
 
-![placeholder](http://blog.coriunder.com/img/Huitsuite.png "Medium example image")
+
 
 ## Hootsuite
+![placeholder](http://blog.coriunder.com/img/Huitsuite.png "Medium example image")
 
 [Smashing Magazine](https://www.smashingmagazine.com)
