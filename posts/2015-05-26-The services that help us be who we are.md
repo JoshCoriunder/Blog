@@ -1,10 +1,12 @@
 ---
 layout: post
-title: The services that help us be who we are
+title: The services we use
 author: Josh Daniel
 img: img/Services.png
 tags: [services, php]
 ---
+
+### The services that help us be who we are
 
 The same as you, we are also a team of dreamers and developers who are building a startup and know the struggels we all face on our way to success. 
 
