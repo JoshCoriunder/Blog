@@ -7,8 +7,6 @@ comments: true
 tags: [vagrant]
 ---
 
-### Branding is Everything
-
 Before we build our product we build our brand, its important to be on brand on client facing touch points and internaly on team facing interfaces, our team members are in most cases the first we sale our brand to. 
 
 Make sure you cover all of the next Brand Points before you launch your service.
