@@ -83,3 +83,8 @@ Draw.io is one of our most beloved tools - this online flow chart tool helped us
 ![placeholder](http://blog.coriunder.com/img/hootsuite.png "Medium example image")
 
 [Smashing Magazine](https://www.smashingmagazine.com)
+
+## MailChimp
+![placeholder](http://blog.coriunder.com/img/MailChimp.png "Medium example image")
+
+[MailChimp](https://www.MailChimp.com)
