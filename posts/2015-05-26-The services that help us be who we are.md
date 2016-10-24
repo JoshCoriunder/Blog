@@ -2,7 +2,7 @@
 layout: post
 title: The services that help us be who we are
 author: Josh Daniel
-img: img/Services.png
+img: img/Services-post.png
 tags: [services, php]
 ---
 
