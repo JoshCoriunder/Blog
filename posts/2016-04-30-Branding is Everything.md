@@ -7,7 +7,7 @@ comments: true
 tags: [vagrant]
 ---
 
-Before we build our product we build our brand, its important to be on brand on client facing touch points and internaly on team facing interfaces, our team members are in most cases the first we sale our brand to. 
+Before we build our product we build our brand, its important to be on brand on client facing touch points and internally on team facing interfaces, our team members are in most cases the first we sale our brand to. 
 
 Make sure you cover all of the next Brand Points before you launch your service.
 
@@ -15,7 +15,7 @@ Make sure you cover all of the next Brand Points before you launch your service.
 
 ## Logos
 
-What is more important then our logo ? prepare and upload your logo to be place on all interfaces available as part of your White Lable, for client facing interfaces we dont have to tell you where and how to place your logo - this one is on you. 
+What is more important then our logo ? prepare and upload your logo to be place on all interfaces available as part of your White Label, for client facing interfaces we don't have to tell you where and how to place your logo - this one is on you. 
 
 On the management interfaces we are the one responsible and we will make sure your logo is looking sharp and representing your brand the way it should be.
 
@@ -23,7 +23,7 @@ On the management interfaces we are the one responsible and we will make sure yo
 
 ## Email templates
 
-Email comunication is the face of your company, from the first time the user signs up to your service those touch points are extremly important and the design should be on brand and inviting. 
+Email communication is the face of your company, from the first time the user signs up to your service those touch points are extremely important and the design should be on brand and inviting. 
 
 The templates are divided to several types : 
 
