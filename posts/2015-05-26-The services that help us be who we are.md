@@ -26,9 +26,11 @@ From time tracking to flow charts the wide range of 3rd party extensions gives u
 ## Bitbucket
 ![placeholder](http://blog.coriunder.com/img/Bitbucket.png "Medium example image")
 
-Bitbucket is the GIT solution from Atlassian, we decided to use Bitbucket given the way that all of Atlassian services communicate to   
+Bitbucket is the GIT solution from Atlassian, we decided to use Bitbucket given the way that all of Atlassian services communicate with one another - the synergy between services allows the team to be updated live on every change in the system and make sure they are doing their part to support the effort. 
 
-[Bitbucket](https://www.Bitbucket.com)
+Bitbucket has proven to be a valuable service for our company and we believe that every team with developer working together around the world would enjoy working with it.  
+
+[Bitbucket](https://www.Bitbucket.org)
 
 
 
@@ -58,13 +60,6 @@ We keep saying that keeping on brand is important - Frontify helps you that with
 
 
 
-## Pintrest
-![placeholder](http://blog.coriunder.com/img/Pintrest.png "Medium example image")
-
-[Pintrest](https://www.Pintrest.com)
-
-
-
 ## Freshdesk
 ![placeholder](http://blog.coriunder.com/img/Freshdesk.png "Medium example image")
 
@@ -75,16 +70,14 @@ We keep saying that keeping on brand is important - Frontify helps you that with
 ## Draw.io
 ![placeholder](http://blog.coriunder.com/img/Drawio.png "Medium example image")
 
-Draw.io is one of our most beloved tools - this online flow chart tool helped us simplify the 
+Draw.io is one of our most beloved tools - Draw.io allows you to create simple and beautiful flow charts that help visualize our plans and assist the team in building the product description. 
+
+With easy integration to Dropbox and google drive, Draw.io syncs easily and updates your flow chart while you work so you won't lose a thing. 
+
+And guess what - Draw.io has Jira extension that allows you to automatically embed your flow chart into you tasks. 
 
 [Draw.io](https://www.Draw.io)
 
-
-
-## Hootsuite
-![placeholder](http://blog.coriunder.com/img/hootsuite.png "Medium example image")
-
-[Smashing Magazine](https://www.hootsuite.com)
 
 ## MailChimp
 ![placeholder](http://blog.coriunder.com/img/MailChimp.png "Medium example image")
@@ -95,3 +88,8 @@ Draw.io is one of our most beloved tools - this online flow chart tool helped us
 ![placeholder](http://blog.coriunder.com/img/InVisionapp.png "Medium example image")
 
 [InVisionapp](https://www.InVisionapp.com)
+
+## Pintrest
+![placeholder](http://blog.coriunder.com/img/Pintrest.png "Medium example image")
+
+[Pintrest](https://www.Pintrest.com)
