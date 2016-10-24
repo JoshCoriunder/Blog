@@ -80,6 +80,6 @@ Draw.io is one of our most beloved tools - this online flow chart tool helped us
 
 
 ## Hootsuite
-![placeholder](http://blog.coriunder.com/img/Huitsuite.png "Medium example image")
+![placeholder](http://blog.coriunder.com/img/hootsuite.png "Medium example image")
 
 [Smashing Magazine](https://www.smashingmagazine.com)
