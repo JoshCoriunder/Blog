@@ -78,6 +78,10 @@ And guess what - Draw.io has Jira extension that allows you to automatically emb
 
 [Draw.io](https://www.Draw.io)
 
+## Buffer
+![placeholder](http://blog.coriunder.com/img/Buffer.png "Medium example image")
+
+[Buffer](https://www.Buffer.com)
 
 ## MailChimp
 ![placeholder](http://blog.coriunder.com/img/MailChimp.png "Medium example image")
