@@ -2,7 +2,7 @@
 layout: post
 title: Branding is Everything
 author: Josh Daniel
-img: img/place-holder.png
+img: img/branding-post.png
 comments: true
 tags: [vagrant]
 ---

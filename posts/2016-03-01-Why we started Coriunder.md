@@ -2,7 +2,7 @@
 layout: post
 title: Why we started Coriunder
 author: Josh Daniel
-img: img/place-holder.png
+img: img/started-post.png
 ---
 
 
